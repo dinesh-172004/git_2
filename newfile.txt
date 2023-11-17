@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hiiiii
 heellooo
 
 
+=======
+hiiiiii
+>>>>>>> branch2
